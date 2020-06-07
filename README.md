@@ -1,0 +1,2 @@
+# oktat-s
+info.oktatás
